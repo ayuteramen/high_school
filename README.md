@@ -1,4 +1,4 @@
-# high_school
+# 高校生用
 
 ## 1日目
 [1日目前半（座学）スライド](https://1drv.ms/p/c/addd96f74c72f3ae/EftaIraotqpNuP7JOxJeIU0BQQlgWe-CQSyKXZcB5gqmOw)  
