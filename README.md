@@ -2,6 +2,7 @@
 
 ## 1日目
 [lse_code](https://colab.research.google.com/drive/1pCzHU8uKYum34IZLJDJqCNr_H7F8CktD?usp=sharing)
+[MNIST](https://colab.research.google.com/drive/1K07cdj1pPMjh6GXL50AsHXs5yShO4qtr?usp=sharing)  
 
 [Python 早見表](https://chokkan.github.io/python/01calc.html#)  
 [Google Colab](https://colab.research.google.com/?hl=ja)  
