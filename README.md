@@ -12,3 +12,5 @@
 [単語ベクトルで遊ぼう](https://word2vec.hiraisun.com/sandbox)  
 [Embedding projecter](https://projector.tensorflow.org/)  
 
+[Excel](https://1drv.ms/x/c/addd96f74c72f3ae/EU9XYnUG7PJLj4jTMExAJ-cBvbeDpiECRR8zaI57xps1Cg​)
+
